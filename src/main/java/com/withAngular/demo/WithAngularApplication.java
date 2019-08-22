@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WithAngularApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WithAngularApplication.class, args);
+		/* SpringApplication.run(WithAngularApplication.class, args); */
+		/* System.out.println("working"); */
 	}
 
 }
